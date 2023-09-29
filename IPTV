@@ -5,28 +5,8 @@ http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59545
 http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59544
 #EXTINF:-1 tvg-id="" tvg-name="CAR002:ARTS" tvg-logo="" group-title="Caribbean",CAR002:ARTS
 http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59543
-#EXTINF:-1 tvg-id="" tvg-name="CAR003:BAHAMAS PARLIAMENT" tvg-logo="" group-title="Caribbean",CAR003:BAHAMAS PARLIAMENT
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59542
-#EXTINF:-1 tvg-id="" tvg-name="CAR004:BASHMENT" tvg-logo="" group-title="Caribbean",CAR004:BASHMENT
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59541
-#EXTINF:-1 tvg-id="" tvg-name="CAR005:CANAL 11" tvg-logo="" group-title="Caribbean",CAR005:CANAL 11
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59540
-#EXTINF:-1 tvg-id="" tvg-name="CAR006:CARIBVISION" tvg-logo="" group-title="Caribbean",CAR006:CARIBVISION
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59539
-#EXTINF:-1 tvg-id="" tvg-name="CAR007:CARS TV" tvg-logo="" group-title="Caribbean",CAR007:CARS TV
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59538
-#EXTINF:-1 tvg-id="" tvg-name="CAR008:CBC TV 8" tvg-logo="" group-title="Caribbean",CAR008:CBC TV 8
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59537
-#EXTINF:-1 tvg-id="" tvg-name="CAR009:CBN TV BVI" tvg-logo="" group-title="Caribbean",CAR009:CBN TV BVI
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59536
-#EXTINF:-1 tvg-id="" tvg-name="CAR010:CDM INTERNATIONAL" tvg-logo="" group-title="Caribbean",CAR010:CDM INTERNATIONAL
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59535
-#EXTINF:-1 tvg-id="" tvg-name="CAR011:CGTN DOCUMENTARY" tvg-logo="" group-title="Caribbean",CAR011:CGTN DOCUMENTARY
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59534
 #EXTINF:-1 tvg-id="" tvg-name="CAR012:CNC3 TRINIDAD" tvg-logo="" group-title="Caribbean",CAR012:CNC3 TRINIDAD
 http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59533
-#EXTINF:-1 tvg-id="" tvg-name="CAR013:CNS 6 GUYANA" tvg-logo="" group-title="Caribbean",CAR013:CNS 6 GUYANA
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59532
 #EXTINF:-1 tvg-id="" tvg-name="CAR014:CUBAVISION" tvg-logo="" group-title="Caribbean",CAR014:CUBAVISION
 http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59531
 #EXTINF:-1 tvg-id="" tvg-name="CAR015:CVM JAMAICA" tvg-logo="" group-title="Caribbean",CAR015:CVM JAMAICA
@@ -43,76 +23,46 @@ http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59526
 http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59525
 #EXTINF:-1 tvg-id="" tvg-name="CAR021:GTN" tvg-logo="" group-title="Caribbean",CAR021:GTN
 http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59524
-#EXTINF:-1 tvg-id="" tvg-name="CAR022:HBO CARIBBEAN" tvg-logo="" group-title="Caribbean",CAR022:HBO CARIBBEAN
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO CARIBBEAN" tvg-logo="" group-title="Caribbean",HBO CARIBBEAN
 http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59523
-#EXTINF:-1 tvg-id="" tvg-name="CAR023:HOPE TV" tvg-logo="" group-title="Caribbean",CAR023:HOPE TV
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59522
-#EXTINF:-1 tvg-id="" tvg-name="CAR024:HOT 7 TV" tvg-logo="" group-title="Caribbean",CAR024:HOT 7 TV
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59521
-#EXTINF:-1 tvg-id="" tvg-name="CAR025:HYPE TV" tvg-logo="" group-title="Caribbean",CAR025:HYPE TV
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59520
-#EXTINF:-1 tvg-id="" tvg-name="CAR026:ISAT" tvg-logo="" group-title="Caribbean",CAR026:ISAT
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59519
-#EXTINF:-1 tvg-id="" tvg-name="CAR027:ISLAND LUCK TV" tvg-logo="" group-title="Caribbean",CAR027:ISLAND LUCK TV
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59518
-#EXTINF:-1 tvg-id="" tvg-name="CAR028:JNN" tvg-logo="" group-title="Caribbean",CAR028:JNN
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59517
-#EXTINF:-1 tvg-id="" tvg-name="CAR029:LVM" tvg-logo="" group-title="Caribbean",CAR029:LVM
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59516
-#EXTINF:-1 tvg-id="" tvg-name="CAR030:MELLO TV" tvg-logo="" group-title="Caribbean",CAR030:MELLO TV
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59515
-#EXTINF:-1 tvg-id="" tvg-name="CAR031:NOS PAIS" tvg-logo="" group-title="Caribbean",CAR031:NOS PAIS
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59514
-#EXTINF:-1 tvg-id="" tvg-name="CAR032:NOS TV" tvg-logo="" group-title="Caribbean",CAR032:NOS TV
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59513
-#EXTINF:-1 tvg-id="" tvg-name="CAR033:ONE CARIBBEAN TV" tvg-logo="" group-title="Caribbean",CAR033:ONE CARIBBEAN TV
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59512
-#EXTINF:-1 tvg-id="" tvg-name="CAR034:OUR TV" tvg-logo="" group-title="Caribbean",CAR034:OUR TV
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59511
-#EXTINF:-1 tvg-id="" tvg-name="CAR035:PBC JAMAICA" tvg-logo="" group-title="Caribbean",CAR035:PBC JAMAICA
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59510
-#EXTINF:-1 tvg-id="" tvg-name="CAR036:PETS" tvg-logo="" group-title="Caribbean",CAR036:PETS
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59509
-#EXTINF:-1 tvg-id="" tvg-name="CAR037:RE TV" tvg-logo="" group-title="Caribbean",CAR037:RE TV
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59508
-#EXTINF:-1 tvg-id="" tvg-name="CAR038:RNN" tvg-logo="" group-title="Caribbean",CAR038:RNN
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59507
-#EXTINF:-1 tvg-id="" tvg-name="CAR039:RPC" tvg-logo="" group-title="Caribbean",CAR039:RPC
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59506
-#EXTINF:-1 tvg-id="" tvg-name="CAR040:SPACE" tvg-logo="" group-title="Caribbean",CAR040:SPACE
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59505
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US045HBOComedyEast.png" group-title="Caribbean",US045:HBO Comedy
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3123
+#EXTINF:-1 tvg-id="" tvg-name="HBO East" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US046HBOEast.png" group-title="Caribbean",US046:HBO East
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3122
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US047HBOSignatureWest.png" group-title="Caribbean",US047:HBO Signature
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3121
+#EXTINF:-1 tvg-id="" tvg-name="HBO Zone" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US048HBOZoneEast.png" group-title="Caribbean",US048:HBO Zone
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3120
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US055HBO2.png" group-title="Caribbean",HBO 2
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3113
 #EXTINF:-1 tvg-id="" tvg-name="CAR041:SPORTS MAX 2" tvg-logo="" group-title="Caribbean",CAR041:SPORTS MAX 2
 http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59504
 #EXTINF:-1 tvg-id="" tvg-name="CAR042:SPORTS MAX PLUS" tvg-logo="" group-title="Caribbean",CAR042:SPORTS MAX PLUS
 http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59503
-#EXTINF:-1 tvg-id="" tvg-name="CAR043:TELE CONTACTO 57" tvg-logo="" group-title="Caribbean",CAR043:TELE CONTACTO 57
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59502
-#EXTINF:-1 tvg-id="" tvg-name="CAR044:TELE CURACAO" tvg-logo="" group-title="Caribbean",CAR044:TELE CURACAO
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59501
-#EXTINF:-1 tvg-id="" tvg-name="CAR045:TELE SUR ENGLISH" tvg-logo="" group-title="Caribbean",CAR045:TELE SUR ENGLISH
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59500
-#EXTINF:-1 tvg-id="" tvg-name="CAR046:TELE SUR SPANISH" tvg-logo="" group-title="Caribbean",CAR046:TELE SUR SPANISH
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59499
-#EXTINF:-1 tvg-id="" tvg-name="CAR047:TELEMUNDO" tvg-logo="" group-title="Caribbean",CAR047:TELEMUNDO
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59498
-#EXTINF:-1 tvg-id="" tvg-name="CAR048:TELENORD 8" tvg-logo="" group-title="Caribbean",CAR048:TELENORD 8
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59497
-#EXTINF:-1 tvg-id="" tvg-name="CAR049:TELESISTEMA 11" tvg-logo="" group-title="Caribbean",CAR049:TELESISTEMA 11
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59496
-#EXTINF:-1 tvg-id="" tvg-name="CAR050:TELEUNION" tvg-logo="" group-title="Caribbean",CAR050:TELEUNION
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59495
-#EXTINF:-1 tvg-id="" tvg-name="CAR051:TELEUNIVERSO 29" tvg-logo="" group-title="Caribbean",CAR051:TELEUNIVERSO 29
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59494
-#EXTINF:-1 tvg-id="" tvg-name="CAR052:TV CARIB" tvg-logo="" group-title="Caribbean",CAR052:TV CARIB
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59493
-#EXTINF:-1 tvg-id="" tvg-name="CAR053:TVJ JAMAICA" tvg-logo="" group-title="Caribbean",CAR053:TVJ JAMAICA
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59492
-#EXTINF:-1 tvg-id="" tvg-name="CAR054:TVJ SPORTS JAMAICA" tvg-logo="" group-title="Caribbean",CAR054:TVJ SPORTS JAMAICA
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59491
-#EXTINF:-1 tvg-id="" tvg-name="CAR055:TVN" tvg-logo="" group-title="Caribbean",CAR055:TVN
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59490
-#EXTINF:-1 tvg-id="" tvg-name="CAR056:ZNS TV" tvg-logo="" group-title="Caribbean",CAR056:ZNS TV
-http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/59489
+#EXTINF:-1 tvg-id="hgtv.usa.eastern.us" tvg-name="US049:HGTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US049HGTV-HD.png" group-title="Caribbean",US049:HGTV HD
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3119
+#EXTINF:-1 tvg-id="history.eastern.us" tvg-name="US050:History HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US050HISTORY-HD.png" group-title="Caribbean",US050:History HD
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3118
+#EXTINF:-1 tvg-id="investigation.discovery.usa.eastern.us" tvg-name="US051:Investigation Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US051 ID-HD.png" group-title="Caribbean",US051:Investigation Discovery HD
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3117
+#EXTINF:-1 tvg-id="tv.land.eastern.us" tvg-name="US052:TV Land HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US052TVLand.png" group-title="Caribbean",US052:TV Land HD
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3116
+#EXTINF:-1 tvg-id="lifetime.network.eastern.us" tvg-name="US053:Lifetime HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US053LifetimeUS.png" group-title="Caribbean",US053:Lifetime HD
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3115
+#EXTINF:-1 tvg-id="lifetime.movies.east.us" tvg-name="US054:Lifetime Movie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US054LifetimeMovie.png" group-title="Caribbean",US054:Lifetime Movie
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3114
+#EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-name="US055:HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US055HBO2.png" group-title="Caribbean",US055:HBO 2
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3113
+#EXTINF:-1 tvg-id="msnbc.usa.us" tvg-name="US057:MSNBC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US057MSNBC-HD.png" group-title="Caribbean",US057:MSNBC HD
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3111
+#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="US058:MTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US058MTV.png" group-title="Caribbean",US058:MTV HD
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3110
+#EXTINF:-1 tvg-id="national.geographic.eastern.us" tvg-name="US059:NAT GEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US059NAT-GEO.png" group-title="Caribbean",US059:NAT GEO HD
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3109
+#EXTINF:-1 tvg-id="actionmax.eastern.us" tvg-name="US005:Action Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US005ACTION-MAX.png" group-title="Caribbean",US005:Action Max
+http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3163
+
 #EXTINF:-1 tvg-id="" tvg-name="------|USA|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/------|USA|------.png" group-title="USA General",------|USA|------
 http://vo01.mohdtv.com:8880/ALLChannels4e56fbed78a2/25257316/3168
 #EXTINF:-1 tvg-id="a.e.eastern.us" tvg-name="US001:A&E HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="USA General",US001:A&E HD
